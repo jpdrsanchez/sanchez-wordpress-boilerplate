@@ -1,0 +1,24 @@
+.boilerplate {
+  &__title {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+    font-size: 2rem;
+    font-weight: 500;
+
+    @include media-down(small-down) {
+      line-height: 1.6;
+    }
+  }
+
+  &__text {
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+
+    @include media-down(small-down) {
+      line-height: 1.6;
+      font-size: 0.75rem;
+    }
+  }
+}

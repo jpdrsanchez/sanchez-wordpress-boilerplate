@@ -1,0 +1,14 @@
+/*
+This file is responsible only for providing theme information that are displayed
+in `Apperance > Themes`. Do not write in here any CSS declarations.
+Theme Name: Sanchez Wordpress Boilerplate
+Theme URI: https://github.com/jpdrsanchez/sanchez-wordpress-boilerplate
+Description: ES6, SCSS ready Wordpress boilerplate theme.
+Version: 1.0
+Text Domain: Sanchez
+Author: João Pedro Sanchez
+Author URI: https://jpdrsanchez.github.io/
+Tags: wordpress, es6, scss, gulp, html5, webpack
+License: GPLv2 License
+License URI: https://wordpress.org/about/gpl/
+*/
